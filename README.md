@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Awn07
+- 👀 I’m interested in programing data science and cyber security
+- 🌱 I’m currently learning Mysql ML and cyber security
